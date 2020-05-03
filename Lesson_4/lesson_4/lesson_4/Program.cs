@@ -75,7 +75,6 @@ namespace lesson_4
                     queueToExpulse[i] = temp;
             }
             Console.WriteLine(queueToExpulse.printQueue());
-            Console.WriteLine(queueToExpulse.length);
             Console.ReadKey();
             #endregion
         }
